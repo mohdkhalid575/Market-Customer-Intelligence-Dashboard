@@ -11,3 +11,7 @@ DAX: Crafting complex measures for year-over-year comparisons, profitability mar
 Data Modeling: Structuring the data for optimal performance and intuitive slicing and dicing.
 Data Storytelling: Translating the metrics into a compelling, actionable narrative for stakeholders.
 It's amazing how the right visualization can bridge the gap between abstract numbers and tangible business decisions.
+
+### Data Source
+Market/Customer Data: The primary dataset used for this analysis is from MSSQL Database file, containing detailed information about each sale made by the company.
+
